@@ -1,3 +1,5 @@
+#FlutterClock
+<img src="Mayuri_Vintage_Flutter_Clock.gif" alt='Mayuri_Vintage_Flutter_Clock'/>
 # vintage_clock
 
 Author Name: Mayuri Ruparel Author Email: mayuri2411@gmail.com
